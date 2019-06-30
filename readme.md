@@ -13,3 +13,5 @@ https://pusher.com/tutorials/cms-laravel-vue-part-1
 * Cambie el BROADCAST_DRIVER a empujer.
 * Migre la base de datos ejecutando este comando: php artisan migrate --seed.
 * Ejecute el comando: php artisan serve para iniciar la aplicación.
+
+Laravel 5.8.26
