@@ -1,7 +1,13 @@
 ## Construye un CMS desde cero con Laravel y Vue
 Este es un ejemplo de cómo construir un CMS desde cero con Laravel y Vue. Puedes leer el artículo sobre Pusher aquí:
 
-https://pusher.com/tutorials/cms-laravel-vue-part-1
+* https://pusher.com/tutorials/cms-laravel-vue-part-1 (BUILD A CMS WITH LARAVEL AND VUE - PART 1: SETTING UP)
+* https://pusher.com/tutorials/cms-laravel-vue-part-2 (BUILD A CMS WITH LARAVEL AND VUE - PART 2: IMPLEMENTING POSTS)
+* https://pusher.com/tutorials/cms-laravel-vue-part-3 (BUILD A CMS WITH LARAVEL AND VUE - PART 3: BUILDING AN API)
+* https://pusher.com/tutorials/cms-laravel-vue-part-4 (BUILD A CMS WITH LARAVEL AND VUE - PART 4: BUILDING THE DASHBOARD)
+* https://pusher.com/tutorials/cms-laravel-vue-part-5 (BUILD A CMS WITH LARAVEL AND VUE - PART 5: COMPLETING OUR DASHBOARDS)
+* https://pusher.com/tutorials/cms-laravel-vue-part-6 (BUILD A CMS WITH LARAVEL AND VUE - PART 6: ADDING REALTIME COMMENTS)
+
 
 * Descargar o clonar el proyecto.
 * CD al directorio del proyecto.
